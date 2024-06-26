@@ -1,0 +1,8 @@
+[ALERT]
+Symbol = EURUSD
+Strategy = Moving Average Crossover
+Price = 1.2356
+StopLoss = 1.3300
+TakeProfit = 1.2400
+Signature = Long by ST_26738832
+Time = 2024-03-08 14:30:00
