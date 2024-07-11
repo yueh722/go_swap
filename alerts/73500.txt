@@ -1,0 +1,8 @@
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3867.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by ST_26738832
+Time=07:35:00
